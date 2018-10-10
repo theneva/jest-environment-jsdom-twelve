@@ -1,7 +1,7 @@
 {
-  "name": "jest-environment-jsdom-12",
+  "name": "jest-environment-jsdom-twelve",
   "version": "0.0.1",
-  "repository": "https://github.com/theneva/jest-environment-jsdom-latest",
+  "repository": "https://github.com/theneva/jest-environment-jsdom-twelve",
   "license": "MIT",
   "main": "build/index.js",
   "dependencies": {
@@ -13,7 +13,7 @@
     "test": "jest",
     "build": "mkdirp build && babel src/index.js -o build/index.js"
   },
-  "description": "JSDOM environment for Jest with latest JSDOM (which doesn't support Node 6)",
+  "description": "JSDOM environment for Jest with JSDOM 12 (which doesn't support Node 6)",
   "author": "Martin Lehmann",
   "private": false,
   "devDependencies": {
