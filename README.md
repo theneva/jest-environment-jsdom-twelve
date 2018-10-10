@@ -1,4 +1,4 @@
-# jest-environment-jsdom-12
+# jest-environment-jsdom-twelve
 
 Jest environment using JSDOM 12, which does not support Node 6 ([and will therefore not be used in Jest any time soon][simen-comment]).
 
