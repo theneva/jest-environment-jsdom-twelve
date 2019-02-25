@@ -1,6 +1,6 @@
 {
   "name": "jest-environment-jsdom-twelve",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "repository": "https://github.com/theneva/jest-environment-jsdom-twelve",
   "license": "MIT",
   "main": "build/index.js",
